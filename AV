@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anna Voronova | Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Anna Voronova</h1>
+        <p>Bachelor in Business Marketing | Zicklin School of Business</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi! I’m a marketing student with experience in social media management, email campaigns, and content creation. I’m passionate about building engaging campaigns and analyzing data to improve strategies.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Marketing Co-Manager</strong> - Plate2Profit (Start-Up) <br> Managed social media and email campaigns, analyzed audience engagement, created content.</li>
+            <li><strong>Server</strong> - Applebee’s <br> Provided excellent customer service, trained new staff, managed multiple tables.</li>
+            <li><strong>Teaching Assistant</strong> - Mosaic Afterschool <br> Assisted in classroom management and activity planning.</li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Social Media Management: Instagram, LinkedIn, TikTok</li>
+            <li>Email Marketing: Mailchimp</li>
+            <li>Content Creation: Canva, PowerPoint, Google Slides</li>
+            <li>Analytics: Google Analytics, Excel, Google Sheets</li>
+            <li>Bilingual: Russian & English</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:Anna.Voronova@baruchmail.cuny.edu">Anna.Voronova@baruchmail.cuny.edu</a></p>
+        <p>Phone: 718-883-0941</p>
+        <p>Location: Brooklyn, NY</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Anna Voronova</p>
+    </footer>
+</body>
+</html>
